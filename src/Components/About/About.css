@@ -1,0 +1,47 @@
+.motivs-container{
+    margin-top: 50px;
+}
+.motivs-container h1{
+    margin-bottom: 50px;
+    border-bottom: 5px solid orange;
+    width: 20%;
+    border-radius: 2px;
+    color: orangered;
+
+}
+.motivs{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.fan{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    width: 1000px;
+    height: 70px;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-left: 70px;
+    margin-bottom: 80px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.fan h2{
+    color:orangered;
+}
+.fan small{
+    color: orange;
+}
+.follower{
+    width: 30%;
+ 
+    text-align: center;
+    
+    
+
+
+}
+.our-follower{
+    margin-top: 200px;
+}

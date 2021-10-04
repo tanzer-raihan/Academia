@@ -1,0 +1,21 @@
+.single-card{
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+.details-btn{
+    padding: 6px;
+    border:1px solid rgba(0, 0, 255, 0.562) ;
+    border-radius: 8px;
+    color:rgba(0, 0, 255, 0.562) ;
+    font-weight:500;
+    margin-left: 100px;
+    margin-top: 20px;
+    width:120px;
+    
+}
+.details-btn:hover{
+    color: white;
+    background-color: rgba(0, 0, 255, 0.479);
+}
+.images{
+    height: 20px;
+}

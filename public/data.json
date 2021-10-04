@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "category": "Test Preparation",
+      "img": "https://www.usnews.com/dims4/USNEWS/19f34fa/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F6f%2Fe6cbce19c848955a85ef8a6386057d%2F48927WideModern_lawschool_102813.jpg",
+      "course": [
+        {
+          "title": "SAT Preparation",
+          "image": "https://www.myglobalstudents.com/wp-content/uploads/2021/01/sat.jpg",
+          "totalContent": 110,
+          "test": 12,
+          "Duration": 3,
+          "rating": 4.6,
+          "price": 450
+        },
+        {
+          "title": "IELTS Preparation",
+          "image": "https://scholarlyoa.com/wp-content/uploads/2021/03/Best-IELTS-Coaching-Jamnagar-640x360.jpg",
+          "totalContent": 90,
+          "test": 10,
+          "Duration": 3,
+          "rating": 4.7,
+          "price": 490
+        },
+        {
+          "title": "TOEFL preparation",
+          "image": "https://images.financialexpress.com/2019/05/BOOK-660.jpg",
+          "totalContent": 60,
+          "test": 10,
+          "Duration": 2.5,
+          "rating": 4.4,
+          "price": 370
+        },
+        {
+          "title": "GMAT Preparation",
+          "image": "https://www.globalcareers.in/wp-content/uploads/2017/03/GMAT-EXAM-FORMAT-GLOBAL-CAREERS-.png",
+          "totalContent": 90,
+          "test": 10,
+          "Duration": 3,
+          "rating": 4.5,
+          "price": 410
+        },
+        {
+          "title": "GRE Preparation",
+          "image": "https://leverageedu.com/blog/wp-content/uploads/2019/09/GRE.png",
+          "totalContent": 70,
+          "test": 8,
+          "Duration": 2,
+          "rating": 4.3,
+          "price": 310
+        },
+        {
+          "title": "Learning German",
+          "image": "https://media.wsimag.com/attachments/74ffd08bdbc08c6913893ad79af657c050f3b7f1/store/fill/690/388/85acb85a1a50fec51279c97289586352053d0402e0d07092d1ad07034b6f/Learning-German.jpg",
+          "totalContent": 70,
+          "test": 8,
+          "Duration": 2,
+          "rating": 4.3,
+          "price": 310
+        },
+        {
+          "title": "Learning Entrepreneurship",
+          "image": "https://logmeincdn.azureedge.net/sc-grasshoppermedia/-/media/4ecf22c9724a40fd84a61844960df023.jpg?la=en",
+          "totalContent": 70,
+          "test": 8,
+          "Duration": 2,
+          "rating": 4.3,
+          "price": 310
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": " Skill Development",
+      "img": "https://leverageedu.com/blog/pu/wp-content/uploads/sites/3/2020/01/Step-by-Step-Guide-for-Skill-Development.jpg"
+    },
+    {
+      "id": 3,
+      "category": "Language and Arts",
+      "img": "https://previews.123rf.com/images/jacekkita/jacekkita1812/jacekkita181200006/120202337-laptop-and-book-as-an-online-dictionary-e-learning-online-language-learning-system.jpg"
+    },
+    {
+      "id": 4,
+      "category": "Enterpreneurship",
+      "img": "https://ied.eu/wp-content/uploads/2020/09/entrepreneurship-and-economic-development.gif"
+    }
+  ]

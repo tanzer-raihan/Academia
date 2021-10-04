@@ -1,0 +1,10 @@
+.recomend{
+color:orangered;
+border-bottom: 5px solid orange;
+width:28%;
+margin-bottom: 100px;
+}
+.recomendation{
+    max-width: 540px;
+    margin-left: 20px;
+}
