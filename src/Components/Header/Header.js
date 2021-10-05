@@ -13,8 +13,8 @@ const Header = () => {
                 <div className='d-flex web-section' >
                     <NavLink   activeClassName='activeClass' className='h5 nav' to='/home'>Home</NavLink>
                     <NavLink  activeClassName='activeClass' className='h5 nav' to='/courses'>Courses</NavLink>
+                    <NavLink activeClassName='activeClass' className='h5 nav' to='/recomendation'>Recomendation</NavLink>
                     <NavLink  activeClassName='activeClass' className='h5 nav' to='/about'>About</NavLink>
-                    <NavLink activeClassName='activeClass' className='h5 nav' to='/signUp'>Recomendation</NavLink>
                 </div>
             </div>
             <div>

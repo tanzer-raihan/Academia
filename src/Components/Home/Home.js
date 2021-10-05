@@ -2,6 +2,9 @@ import React, { useEffect, useState } from 'react';
 import './Home.css'
 import BackgroundImage from '../../data/EducationLaptop01.jpg'
 import Course from './Course/Course';
+import { useHistory } from 'react-router';
+
+//----------Loading Data------------
 
 const Home = () => {
     const [courses, setCourses] = useState([])
@@ -11,10 +14,16 @@ const Home = () => {
             .then(data => setCourses(data))
     }, [])
 
+    const history = useHistory();
+
+    const handleClick = () => {
+        history.push('/courses');
+    }
 
     return (
         <div>
             <section>
+
                 <div>
                     <div
                         className="bg_image"
@@ -24,7 +33,12 @@ const Home = () => {
                             height: "90vh",
                             color: "#f5f5f5"
                         }}
+                    
                     >
+                        <div >
+                        <h1 className='with'>WITH</h1>
+                        <h1 className='academia' >ACADEMIA</h1>
+                        </div>
                     </div>
 
                     <div className='text-center title'>
@@ -60,10 +74,10 @@ const Home = () => {
 
                                 <li class="list-group-item"><h6>-Extra Class for lacking students</h6></li>
                                 <li class="list-group-item"><h6>-Individual and group counseling</h6></li>
-                                
+
                             </ul>
                         </div>
-                        <button className='course-btn'>See All Courses</button>
+                        <button onClick={handleClick} className='course-btn'>See All Courses</button>
                     </div>
                 </div>
 

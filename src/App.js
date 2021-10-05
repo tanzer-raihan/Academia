@@ -24,7 +24,7 @@ function App() {
         <Route path='/courses'>
         <Courses></Courses>
         </Route>
-        <Route path='/signUP'>
+        <Route path='/recomendation'>
         <SignUP></SignUP>
         </Route>
         <Route path='/about'>

@@ -1,10 +1,16 @@
 .recomend{
-color:orangered;
-border-bottom: 5px solid orange;
-width:28%;
-margin-bottom: 100px;
+    color:  rgba(0, 0, 255, 0.904);
+    margin-top: 50px;
+    border-bottom: 2px solid crimson;
+    width: 28%;
 }
 .recomendation{
     max-width: 540px;
     margin-left: 20px;
+    
+    box-shadow:  rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+.photo{
+    border-radius: 50%;
+    width: 15%;
 }

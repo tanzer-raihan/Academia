@@ -1,74 +1,74 @@
 [
-    {
-      "title": "SAT Preparation",
-      "image": "https://www.myglobalstudents.com/wp-content/uploads/2021/01/sat.jpg",
-      "totalContent": 110,
-      "test": 12,
-      "Duration": 3,
-      "rating": 4.6,
-      "price": 450
-    },
-    {
-      "title": "IELTS Preparation",
-      "image": "https://scholarlyoa.com/wp-content/uploads/2021/03/Best-IELTS-Coaching-Jamnagar-640x360.jpg",
-      "totalContent": 90,
-      "test": 10,
-      "Duration": 3,
-      "rating": 4.7,
-      "price": 490
-    },
-    {
-      "title": "TOEFL preparation",
-      "image": "https://images.financialexpress.com/2019/05/BOOK-660.jpg",
-      "totalContent": 60,
-      "test": 10,
-      "Duration": 2.5,
-      "rating": 4.4,
-      "price": 370
-    },
-    {
-      "title": "GMAT Preparation",
-      "image": "https://www.globalcareers.in/wp-content/uploads/2017/03/GMAT-EXAM-FORMAT-GLOBAL-CAREERS-.png",
-      "totalContent": 90,
-      "test": 10,
-      "Duration": 3,
-      "rating": 4.5,
-      "price": 410
-    },
-    {
-      "title": "GRE Preparation",
-      "image": "https://leverageedu.com/blog/wp-content/uploads/2019/09/GRE.png",
-      "totalContent": 70,
-      "test": 8,
-      "Duration": 2,
-      "rating": 4.3,
-      "price": 310
-    },
-    {
-      "title": "Learning German",
-      "image": "https://media.wsimag.com/attachments/74ffd08bdbc08c6913893ad79af657c050f3b7f1/store/fill/690/388/85acb85a1a50fec51279c97289586352053d0402e0d07092d1ad07034b6f/Learning-German.jpg",
-      "totalContent": 70,
-      "test": 8,
-      "Duration": 2,
-      "rating": 4.3,
-      "price": 310
-    },
-    {
-      "title": "Learning Spanish",
-      "image": "https://d37sy4vufic209.cloudfront.net/website/_next/static/dynamic/7958534453dffc7a83ecc20fa335faa6/700.jpg",
-      "totalContent": 70,
-      "test": 8,
-      "Duration": 2,
-      "rating": 4.4,
-      "price": 310
-    },
-    {
-      "title": "Learning Entrepreneurship",
-      "image": "https://logmeincdn.azureedge.net/sc-grasshoppermedia/-/media/4ecf22c9724a40fd84a61844960df023.jpg?la=en",
-      "totalContent": 70,
-      "test": 8,
-      "Duration": 2,
-      "rating": 4.3,
-      "price": 310
-    }
-  ]
+  {
+    "title": "SAT Preparation",
+    "image": "https://www.myglobalstudents.com/wp-content/uploads/2021/01/sat.jpg",
+    "totalContent": 110,
+    "test": 12,
+    "Duration": 3,
+    "rating": 4.6,
+    "price": 450
+  },
+  {
+    "title": "IELTS Preparation",
+    "image": "https://scholarlyoa.com/wp-content/uploads/2021/03/Best-IELTS-Coaching-Jamnagar-640x360.jpg",
+    "totalContent": 90,
+    "test": 10,
+    "Duration": 3,
+    "rating": 4.7,
+    "price": 490
+  },
+  {
+    "title": "TOEFL preparation",
+    "image": "https://images.financialexpress.com/2019/05/BOOK-660.jpg",
+    "totalContent": 60,
+    "test": 10,
+    "Duration": 2.5,
+    "rating": 4.4,
+    "price": 370
+  },
+  {
+    "title": "GMAT Preparation",
+    "image": "https://www.globalcareers.in/wp-content/uploads/2017/03/GMAT-EXAM-FORMAT-GLOBAL-CAREERS-.png",
+    "totalContent": 90,
+    "test": 10,
+    "Duration": 3,
+    "rating": 4.5,
+    "price": 410
+  },
+  {
+    "title": "GRE Preparation",
+    "image": "https://leverageedu.com/blog/wp-content/uploads/2019/09/GRE.png",
+    "totalContent": 75,
+    "test": 8,
+    "Duration": 2,
+    "rating": 4.3,
+    "price": 330
+  },
+  {
+    "title": "Learning German",
+    "image": "https://media.wsimag.com/attachments/74ffd08bdbc08c6913893ad79af657c050f3b7f1/store/fill/690/388/85acb85a1a50fec51279c97289586352053d0402e0d07092d1ad07034b6f/Learning-German.jpg",
+    "totalContent": 70,
+    "test": 8,
+    "Duration": 2,
+    "rating": 4.3,
+    "price": 310
+  },
+  {
+    "title": "Learning Spanish",
+    "image": "https://d37sy4vufic209.cloudfront.net/website/_next/static/dynamic/7958534453dffc7a83ecc20fa335faa6/700.jpg",
+    "totalContent": 70,
+    "test": 8,
+    "Duration": 2,
+    "rating": 4.4,
+    "price": 310
+  },
+  {
+    "title": "Learning Entrepreneurship",
+    "image": "https://logmeincdn.azureedge.net/sc-grasshoppermedia/-/media/4ecf22c9724a40fd84a61844960df023.jpg?la=en",
+    "totalContent": 60,
+    "test": 7,
+    "Duration": 3,
+    "rating": 4.3,
+    "price": 390
+  }
+]

@@ -1,16 +1,11 @@
 .motivs-container{
-    margin-top: 50px;
-}
-.motivs-container h1{
-    margin-bottom: 50px;
-    border-bottom: 5px solid orange;
-    width: 20%;
-    border-radius: 2px;
-    color: orangered;
-
+    margin-top: 80px;
 }
 .motivs{
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.our-motivs{
+    margin-top: 30px;
 }
 
 .fan{
@@ -45,3 +40,24 @@
 .our-follower{
     margin-top: 200px;
 }
+
+.uni-img{
+    height: 120px;
+}
+.h{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    height: 260px;
+    border: 1px solid rgba(128, 128, 128, 0.856);
+}
+.body{
+    background-color: rgba(220, 220, 220, 0.274);
+    
+}
+
+.h:hover{
+    border: 1px solid rgba(0, 0, 0, 0.925);
+    background-color: rgba(95, 158, 160, 0.993);
+    color:white;
+}
+

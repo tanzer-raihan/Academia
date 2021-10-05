@@ -3,4 +3,26 @@ border-radius: 10px;
 }
 .images{
     height: 200px;
+   
+}
+.single-card h6{
+    font-family:cursive;
+
+}
+.single-card:hover{
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+.Book-now{
+    width:150px;
+    padding: 5px;
+    border:1px solid rgba(0, 0, 255, 0.562) ;
+    border-radius: 8px;
+    color:rgba(0, 0, 255, 0.603) ;
+    font-weight:500;
+    margin-left: 80px;
+    margin-top: 5px;
+}
+.Book-now:hover{
+    color: white;
+    background-color: rgba(0, 0, 255, 0.479);
 }
